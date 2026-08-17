@@ -1,4 +1,4 @@
-This repo is the originally ported from https://www.fischl.de/usbasp/ to Platformio environment for easy and simple to compile and tested on USBasp hardware.
+This repo is the originally ported from https://www.fischl.de/usbasp/ to Platformio environment for easy and simple compilation and also tested on USBasp hardware.
 ## Some technical information:
 - VSCode Extension: PlatformIO 3.4.4
 - PLATFORM: Atmel AVR (5.2.0) > USBasp stick
